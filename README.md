@@ -32,15 +32,8 @@ I enjoy translating real user needs into simple, purposeful interfaces—and shi
 - **WordPress:** Elementor, WooCommerce, Custom Themes, Performance, SEO basics
 - **Design/UX:** Figma, Wireframing, Prototyping, Usability Testing, UX Writing
 - **Workflow:** Git/GitHub, CI basics, Modular CSS, REST APIs, Form handling/validation
-
----
-
-## Selected work
-
-- Portfolio: https://muhammad-awais-web-dev.github.io/  
-- Demo restaurant website: https://dev-practical-2.pantheonsite.io/  
-- Restaurant landing page: https://dev-juggernaunt884.pantheonsite.io/delicacy/  
-- Tailored sample (Sindhri Restaurant): https://dev-juggernaunt884.pantheonsite.io/sindhri-restaurant-sample-page/
+- **Other:** Canva, MS Office, Google Workspace, Basic SEO, Basic Digital Marketing
+- **Soft skills:** Problem-solving, Communication, Collaboration, Time management
 
 ---
 
