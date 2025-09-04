@@ -91,9 +91,10 @@ Change size globally:
 ## GitHub at a glance
 
 <!-- If you like these cards, keep them; if not, delete this section. -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-awais-web-dev" alt="GitHub Streak" />
+<div style="display: flex; flex-direction: column; gap: 10px; justify-content: center;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-awais-web-dev" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact" alt="Top Languages" />
 </div>
 
 ---
