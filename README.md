@@ -78,6 +78,35 @@ How to use:
     </td>
     <!-- Add more badges below this line -->
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/30e52210-c06c-49fc-9bad-604a98cd4e17/public_url" target="_blank" rel="noreferrer">
+        <img
+          src="https://images.credly.com/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob"
+          alt="Meta Back-End Developer"
+          width="120" height="120"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/50f13c08-b559-4c63-a01a-88ae9f1ceb43/public_url" target="_blank" rel="noreferrer">
+        <img
+          src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png"
+          alt="Meta Full-Stack Developer"
+          width="120" height="120"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/d48dd5f8-a7f5-4cb5-9d1a-27cffe1945b4/public_url" target="_blank" rel="noreferrer">
+        <img
+          src="https://images.credly.com/images/0ac196c8-e538-4a4b-8c3c-d242f3e565ae/Coursera_20JavaScript_20Prog_20w_20React_20Node_20and_20MongoDB_20Spec.png"
+          alt="IBM JavaScript Programming with React, Node.js, and MongoDB"
+          width="120" height="120"
+        />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!--
