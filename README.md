@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Muhammad Awais</h1>
 <p align="center">
-  Front-End Developer • WordPress / Elementor / WooCommerce • UX-minded Builder
+  Front-End Developer • WordPress / Elementor / WooCommerce • React.js/Python/Django • UX-minded Builder
 </p>
 
 <p align="center">
@@ -47,83 +47,69 @@ How to use:
 4) Duplicate/trim the <a><img/></a> blocks as needed.
 -->
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/57f79c80-22c5-4441-804a-c23e04b7201e/public_url" target="_blank" rel="noreferrer">
-        <img
-          src="https://images.credly.com/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"
-          alt="Meta Front-End Developer"
-          width="120" height="120"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/64764bdc-bd32-4e30-be39-c997aa1e8fc2/public_url" target="_blank" rel="noreferrer">
-        <img
-          src="https://images.credly.com/images/78d71457-7637-4b02-8c0d-739814070bce/GCC_badge_UX_1000x1000.png"
-          alt="Google UX Design Professional Certificate"
-          width="120" height="120"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/4ae9f46b-b653-440d-a046-9abc1d5a94a1/public_url" target="_blank" rel="noreferrer">
-        <img
-          src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob"
-          alt="AI Prompting Essential Specialization"
-          width="120" height="120"
-        />
-      </a>
-    </td>
-    <!-- Add more badges below this line -->
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/30e52210-c06c-49fc-9bad-604a98cd4e17/public_url" target="_blank" rel="noreferrer">
-        <img
-          src="https://images.credly.com/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob"
-          alt="Meta Back-End Developer"
-          width="120" height="120"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/50f13c08-b559-4c63-a01a-88ae9f1ceb43/public_url" target="_blank" rel="noreferrer">
-        <img
-          src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png"
-          alt="Meta Full-Stack Developer"
-          width="120" height="120"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/d48dd5f8-a7f5-4cb5-9d1a-27cffe1945b4/public_url" target="_blank" rel="noreferrer">
-        <img
-          src="https://images.credly.com/images/0ac196c8-e538-4a4b-8c3c-d242f3e565ae/Coursera_20JavaScript_20Prog_20w_20React_20Node_20and_20MongoDB_20Spec.png"
-          alt="IBM JavaScript Programming with React, Node.js, and MongoDB"
-          width="120" height="120"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://www.credly.com/badges/57f79c80-22c5-4441-804a-c23e04b7201e/public_url" target="_blank" rel="noreferrer">
+  <img
+    src="https://images.credly.com/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"
+    alt="Meta Front-End Developer"
+    width="120" height="120"
+  />
+</a>
+<a href="https://www.credly.com/badges/64764bdc-bd32-4e30-be39-c997aa1e8fc2/public_url" target="_blank" rel="noreferrer">
+  <img
+    src="https://images.credly.com/images/78d71457-7637-4b02-8c0d-739814070bce/GCC_badge_UX_1000x1000.png"
+    alt="Google UX Design Professional Certificate"
+    width="120" height="120"
+  />
+</a>
+<a href="https://www.credly.com/badges/4ae9f46b-b653-440d-a046-9abc1d5a94a1/public_url" target="_blank" rel="noreferrer">
+  <img
+    src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob"
+    alt="AI Prompting Essential Specialization"
+    width="120" height="120"
+  />
+</a>
+<a href="https://www.credly.com/badges/30e52210-c06c-49fc-9bad-604a98cd4e17/public_url" target="_blank" rel="noreferrer">
+  <img
+    src="https://images.credly.com/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob"
+    alt="Meta Back-End Developer"
+    width="120" height="120"
+  />
+</a>
+<a href="https://www.credly.com/badges/50f13c08-b559-4c63-a01a-88ae9f1ceb43/public_url" target="_blank" rel="noreferrer">
+  <img
+    src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png"
+    alt="Meta Full-Stack Developer"
+    width="120" height="120"
+  />
+</a>
+<a href="https://www.credly.com/badges/d48dd5f8-a7f5-4cb5-9d1a-27cffe1945b4/public_url" target="_blank" rel="noreferrer">
+  <img
+    src="./images/javascript-programming-with-react-node-mongodb-spec.png"
+    alt="IBM JavaScript Programming with React, Node.js, and MongoDB"
+    width="120" height="120"
+  />
+</a>
 
 <!--
 Change size globally:
 - Set width/height to 100, 120, 140, etc., in every <img>.
 - Recommended: 120 x 120 for balance and clarity in a README.
 -->
-
+<a href="https://www.credly.com/users/muhammad-awais-web-dev" target="_blank" rel="noreferrer">Credly Profile 🔗</a><br>
+<a href="https://www.coursera.org/learner/muhammad-awais-web-dev" target="_blank" rel="noreferrer">Coursera Profile 🔗</a>
 ---
 
 ## GitHub at a glance
 
+![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-awais-web-dev&theme=onedark&no-frame=true&margin-w=15)
+
+
 <!-- If you like these cards, keep them; if not, delete this section. -->
-<div style="display: flex; flex-direction: column; gap: 10px; justify-content: center;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-awais-web-dev" alt="GitHub Streak" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact" alt="Top Languages" />
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img width="400" hight="100%" src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" />
+  <img width="400" hight="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-awais-web-dev" alt="GitHub Streak" />
+  <img width="400" hight="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact" alt="Top Languages" />
 </div>
 
 ---
