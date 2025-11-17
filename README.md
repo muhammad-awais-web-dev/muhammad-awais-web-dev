@@ -85,7 +85,7 @@ How to use:
 </a>
 <a href="https://www.credly.com/badges/d48dd5f8-a7f5-4cb5-9d1a-27cffe1945b4/public_url" target="_blank" rel="noreferrer">
   <img
-    src="https://github.com/muhammad-awais-web-dev/muhammad-awais-web-dev/blob/main/Images/javascript-programming-with-react-node-mongodb-spec.png"
+    src="Images/IBM1.png"
     alt="IBM JavaScript Programming with React, Node.js, and MongoDB"
     width="120" height="120"
   />
