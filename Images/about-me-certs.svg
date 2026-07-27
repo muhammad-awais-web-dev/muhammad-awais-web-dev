@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" viewBox="0 0 340 150" fill="none">
+  <defs>
+    <linearGradient id="certGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2b1b00" />
+      <stop offset="100%" stop-color="#0f0900" />
+    </linearGradient>
+  </defs>
+  <rect width="340" height="150" rx="8" fill="url(#certGrad)" stroke="#FFAD1F" stroke-width="1.5" />
+  
+  <text x="20" y="40" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#FFAD1F">🎓 Certifications</text>
+  
+  <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" fill="#ffffff">
+    <tspan x="20" dy="0">Meta Full-Stack &amp; Front-End Dev,</tspan>
+    <tspan x="20" dy="20">Google UX Design (user research to</tspan>
+    <tspan x="20" dy="20">prototyping), and AI Prompting.</tspan>
+  </text>
+</svg>

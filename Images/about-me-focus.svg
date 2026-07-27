@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" viewBox="0 0 340 150" fill="none">
+  <defs>
+    <linearGradient id="focusGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b3300" />
+      <stop offset="100%" stop-color="#050a00" />
+    </linearGradient>
+  </defs>
+  <rect width="340" height="150" rx="8" fill="url(#focusGrad)" stroke="#8CE95F" stroke-width="1.5" />
+  
+  <text x="20" y="40" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#8CE95F">🚀 Focus</text>
+  
+  <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" fill="#ffffff">
+    <tspan x="20" dy="0">Building highly interactive, performant,</tspan>
+    <tspan x="20" dy="22">and accessible user interfaces.</tspan>
+  </text>
+</svg>
