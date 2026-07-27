@@ -14,6 +14,9 @@
     <a href="mailto:awaisrafique4929@gmail.com">📧 Email</a> •
     <a href="https://wa.me/923259350593" target="_blank">💬 WhatsApp</a>
   </p>
+
+  <br>
+  <img src="./terminal.gif" alt="GitHub Profile Terminal" width="700" />
 </div>
 
 ---
@@ -114,10 +117,41 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<h3 align="center">3D Contributions</h3>
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-green.svg">
+    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-awais-web-dev&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  <br><br>
+  
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=muhammad-awais-web-dev&theme=dark&background=0B3300&text=F4F7F2&fire=8CE95F&ring=8CE95F&currStreakLabel=8CE95F" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact" alt="Top Languages" width="60%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 📞 Let's Connect!
 
 - **LinkedIn**: [linkedin.com/in/muhammad-awais-web-dev](https://www.linkedin.com/in/muhammad-awais-web-dev)
 - **Email**: [awaisrafique4929@gmail.com](mailto:awaisrafique4929@gmail.com)
 - **WhatsApp**: [+92 325 935 0593](https://wa.me/923259350593)
-```
+
