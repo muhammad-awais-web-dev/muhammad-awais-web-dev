@@ -1,122 +1,123 @@
 <!-- Profile README for Muhammad Awais -->
 
-<h1 align="center">Hi, I'm Muhammad Awais</h1>
-<p align="center">
-  Front-End Developer • WordPress / Elementor / WooCommerce • React.js/Python/Django • UX-minded Builder
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8CE95F&background=0B330000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Muhammad+Awais;Full-Stack+Web+Developer;WordPress+%26+Automation+Expert" alt="Typing SVG" />
+  
+  <p align="center">
+    <strong>Software Engineer & UX-Minded Builder</strong>
+  </p>
 
-<p align="center">
-  <a href="https://muhammad-awais-web-dev.github.io/">Portfolio</a> •
-  <a href="https://github.com/muhammad-awais-web-dev">GitHub</a> •
-  <a href="https://www.linkedin.com/in/muhammad-awais-web-dev">LinkedIn</a> •
-  <a href="mailto:awaisrafique4929@gmail.com">Email</a> •
-  <a href="https://wa.me/923259350593">WhatsApp</a>
-</p>
-
----
-
-## About me
-
-- Front-end developer focused on clean, accessible UIs and fast, reliable builds.  
-- Comfortable across **React**, **WordPress** (Elementor/WooCommerce), **Figma**, and **Canva**.  
-- Recently completed the **Meta Front-End Developer Specialization** and **AI Prompting Essential Specialization** on Coursera.  
-- Certified in **Google UX Design** (end-to-end: research → wireframes → prototypes → testing).  
-
-I enjoy translating real user needs into simple, purposeful interfaces—and shipping!
-
----
-
-## Skills
-
-- **Front-end:** HTML5, CSS3, JavaScript (ES6+), React, Responsive Design, Accessibility (a11y)
-- **WordPress:** Elementor, WooCommerce, Custom Themes, Performance, SEO basics
-- **Design/UX:** Figma, Wireframing, Prototyping, Usability Testing, UX Writing
-- **Workflow:** Git/GitHub, CI basics, Modular CSS, REST APIs, Form handling/validation
-- **Other:** Canva, MS Office, Google Workspace, Basic SEO, Basic Digital Marketing
-- **Soft skills:** Problem-solving, Communication, Collaboration, Time management
-
----
-
-## Certifications (Credly badges)
-
-<!--
-How to use:
-1) Replace each HREF with your public Credly badge page URL.
-2) Replace each IMG SRC with the badge image URL from Credly (right-click → copy image address).
-3) Size is controlled via width/height attributes (keep them equal for a square).
-4) Duplicate/trim the <a><img/></a> blocks as needed.
--->
-
-
-<a href="https://www.credly.com/badges/57f79c80-22c5-4441-804a-c23e04b7201e/public_url" target="_blank" rel="noreferrer">
-  <img
-    src="https://images.credly.com/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"
-    alt="Meta Front-End Developer"
-    width="120" height="120"
-  />
-</a>
-<a href="https://www.credly.com/badges/64764bdc-bd32-4e30-be39-c997aa1e8fc2/public_url" target="_blank" rel="noreferrer">
-  <img
-    src="https://images.credly.com/images/78d71457-7637-4b02-8c0d-739814070bce/GCC_badge_UX_1000x1000.png"
-    alt="Google UX Design Professional Certificate"
-    width="120" height="120"
-  />
-</a>
-<a href="https://www.credly.com/badges/4ae9f46b-b653-440d-a046-9abc1d5a94a1/public_url" target="_blank" rel="noreferrer">
-  <img
-    src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob"
-    alt="AI Prompting Essential Specialization"
-    width="120" height="120"
-  />
-</a>
-<a href="https://www.credly.com/badges/30e52210-c06c-49fc-9bad-604a98cd4e17/public_url" target="_blank" rel="noreferrer">
-  <img
-    src="https://images.credly.com/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob"
-    alt="Meta Back-End Developer"
-    width="120" height="120"
-  />
-</a>
-<a href="https://www.credly.com/badges/50f13c08-b559-4c63-a01a-88ae9f1ceb43/public_url" target="_blank" rel="noreferrer">
-  <img
-    src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png"
-    alt="Meta Full-Stack Developer"
-    width="120" height="120"
-  />
-</a>
-<a href="https://www.credly.com/badges/d48dd5f8-a7f5-4cb5-9d1a-27cffe1945b4/public_url" target="_blank" rel="noreferrer">
-  <img
-    src="Images/IBM1.png"
-    alt="IBM JavaScript Programming with React, Node.js, and MongoDB"
-    width="120" height="120"
-  />
-</a>
-
-<!--
-Change size globally:
-- Set width/height to 100, 120, 140, etc., in every <img>.
-- Recommended: 120 x 120 for balance and clarity in a README.
--->
-<a href="https://www.credly.com/users/muhammad-awais-web-dev" target="_blank" rel="noreferrer">Credly Profile 🔗</a><br>
-<a href="https://www.coursera.org/learner/muhammad-awais-web-dev" target="_blank" rel="noreferrer">Coursera Profile 🔗</a>
----
-
-## GitHub at a glance
-
-![trophy](https://github-profile-trophy.vercel.app/?username=muhammad-awais-web-dev&theme=onedark&no-frame=true&margin-w=15)
-
-
-<!-- If you like these cards, keep them; if not, delete this section. -->
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img width="400" hight="100%" src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" />
-  <img width="400" hight="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-awais-web-dev" alt="GitHub Streak" />
-  <img width="400" hight="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact" alt="Top Languages" />
+  <p align="center">
+    <a href="https://portfolio.muhammadawaisweb.dev" target="_blank">🌐 Portfolio</a> •
+    <a href="https://github.com/muhammad-awais-web-dev">🐙 GitHub</a> •
+    <a href="https://www.linkedin.com/in/muhammad-awais-web-dev" target="_blank">💼 LinkedIn</a> •
+    <a href="mailto:awaisrafique4929@gmail.com">📧 Email</a> •
+    <a href="https://wa.me/923259350593" target="_blank">💬 WhatsApp</a>
+  </p>
 </div>
 
 ---
 
-## Contact
+## 👨‍💻 About Me
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-awais-web-dev  
-- Email: awaisrafique4929@gmail.com  
-- WhatsApp: +92 325 935 0593
+- 🚀 **Focus**: Building highly interactive, performant, and accessible user interfaces.
+- ⚙️ **Specialty**: Decoupled systems, custom **React/Next.js** applications, headless **WordPress** setups, and automated **n8n** backend pipelines.
+- 🎓 **Education & Certifications**: 
+  - Recently completed the **Meta Full-Stack / Front-End Developer Specializations** on Coursera.
+  - Certified in **Google UX Design** (end-to-end user research → wireframing → prototyping → usability testing).
+  - Certified in **AI Prompting Essentials** on Coursera.
+- 💡 **Philosophy**: Translating real-world user requirements into clean, structured code and delightful user journeys.
 
+---
+
+## 🛠 Tech Stack & Tools
+
+### 🌐 Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Back-End & CMS
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🎨 Design & Workflow
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/50f13c08-b559-4c63-a01a-88ae9f1ceb43/public_url" target="_blank">
+          <img src="https://images.credly.com/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" alt="Meta Full-Stack Developer" width="100" height="100"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/57f79c80-22c5-4441-804a-c23e04b7201e/public_url" target="_blank">
+          <img src="https://images.credly.com/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer" width="100" height="100"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/64764bdc-bd32-4e30-be39-c997aa1e8fc2/public_url" target="_blank">
+          <img src="https://images.credly.com/images/78d71457-7637-4b02-8c0d-739814070bce/GCC_badge_UX_1000x1000.png" alt="Google UX Design Professional Certificate" width="100" height="100"/>
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td><strong>Meta Full-Stack</strong></td>
+      <td><strong>Meta Front-End</strong></td>
+      <td><strong>Google UX Design</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/30e52210-c06c-49fc-9bad-604a98cd4e17/public_url" target="_blank">
+          <img src="https://images.credly.com/images/1dd2e575-2333-45d9-aad5-a8b58b5a1e01/blob" alt="Meta Back-End Developer" width="100" height="100"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/4ae9f46b-b653-440d-a046-9abc1d5a94a1/public_url" target="_blank">
+          <img src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob" alt="AI Prompting Essential" width="100" height="100"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/d48dd5f8-a7f5-4cb5-9d1a-27cffe1945b4/public_url" target="_blank">
+          <img src="Images/IBM1.png" alt="IBM JavaScript Programming with React, Node.js, and MongoDB" width="100" height="100"/>
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td><strong>Meta Back-End</strong></td>
+      <td><strong>AI Prompting</strong></td>
+      <td><strong>IBM JS & React</strong></td>
+    </tr>
+  </table>
+  
+  <br>
+  <a href="https://www.credly.com/users/muhammad-awais-web-dev" target="_blank">🎓 Credly Profile 🔗</a> • 
+  <a href="https://www.coursera.org/learner/muhammad-awais-web-dev" target="_blank">✏️ Coursera Profile 🔗</a>
+</div>
+
+---
+
+
+## 📞 Let's Connect!
+
+- **LinkedIn**: [linkedin.com/in/muhammad-awais-web-dev](https://www.linkedin.com/in/muhammad-awais-web-dev)
+- **Email**: [awaisrafique4929@gmail.com](mailto:awaisrafique4929@gmail.com)
+- **WhatsApp**: [+92 325 935 0593](https://wa.me/923259350593)
+```
