@@ -23,13 +23,28 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Focus**: Building highly interactive, performant, and accessible user interfaces.
-- ⚙️ **Specialty**: Decoupled systems, custom **React/Next.js** applications, headless **WordPress** setups, and automated **n8n** backend pipelines.
-- 🎓 **Education & Certifications**: 
-  - Recently completed the **Meta Full-Stack / Front-End Developer Specializations** on Coursera.
-  - Certified in **Google UX Design** (end-to-end user research → wireframing → prototyping → usability testing).
-  - Certified in **AI Prompting Essentials** on Coursera.
-- 💡 **Philosophy**: Translating real-world user requirements into clean, structured code and delightful user journeys.
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
+  <!-- Card 1: Focus -->
+  <div style="flex: 1 1 280px; min-width: 250px; background: linear-gradient(135deg, #1b3300 0%, #000 100%); border: 1px solid #8CE95F; border-radius: 8px; padding: 15px; color: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+    <h3 style="margin-top: 0; color: #8CE95F;">🚀 Focus</h3>
+    <p style="margin: 0; font-size: 14px; line-height: 1.5;">Building highly interactive, performant, and accessible user interfaces.</p>
+  </div>
+  <!-- Card 2: Specialty -->
+  <div style="flex: 1 1 280px; min-width: 250px; background: linear-gradient(135deg, #0b2240 0%, #000 100%); border: 1px solid #61DAFB; border-radius: 8px; padding: 15px; color: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+    <h3 style="margin-top: 0; color: #61DAFB;">⚙️ Specialty</h3>
+    <p style="margin: 0; font-size: 14px; line-height: 1.5;">Decoupled systems, custom React/Next.js applications, headless WordPress setups, and automated n8n backend pipelines.</p>
+  </div>
+  <!-- Card 3: Education & Certs -->
+  <div style="flex: 1 1 280px; min-width: 250px; background: linear-gradient(135deg, #2b1b00 0%, #000 100%); border: 1px solid #FFAD1F; border-radius: 8px; padding: 15px; color: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+    <h3 style="margin-top: 0; color: #FFAD1F;">🎓 Certifications</h3>
+    <p style="margin: 0; font-size: 14px; line-height: 1.5;">Meta Full-Stack & Front-End Specializations, Google UX Design, and AI Prompting Essentials.</p>
+  </div>
+  <!-- Card 4: Philosophy -->
+  <div style="flex: 1 1 280px; min-width: 250px; background: linear-gradient(135deg, #2a0033 0%, #000 100%); border: 1px solid #E95F8C; border-radius: 8px; padding: 15px; color: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+    <h3 style="margin-top: 0; color: #E95F8C;">💡 Philosophy</h3>
+    <p style="margin: 0; font-size: 14px; line-height: 1.5;">Translating real-world user requirements into clean, structured code and delightful user journeys.</p>
+  </div>
+</div>
 
 ---
 
@@ -127,21 +142,21 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-awais-web-dev&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="./github-trophies.svg" alt="Trophies" />
   <br><br>
   
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false" alt="GitHub Stats" width="100%" />
+        <img src="./github-stats.svg" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=muhammad-awais-web-dev&theme=dark&background=0B3300&text=F4F7F2&fire=8CE95F&ring=8CE95F&currStreakLabel=8CE95F" alt="GitHub Streak" width="100%" />
+        <img src="./github-streak.svg" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact" alt="Top Languages" width="60%" />
+        <img src="./github-top-langs.svg" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
@@ -151,7 +166,30 @@
 
 ## 📞 Let's Connect!
 
-- **LinkedIn**: [linkedin.com/in/muhammad-awais-web-dev](https://www.linkedin.com/in/muhammad-awais-web-dev)
-- **Email**: [awaisrafique4929@gmail.com](mailto:awaisrafique4929@gmail.com)
-- **WhatsApp**: [+92 325 935 0593](https://wa.me/923259350593)
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/muhammad-awais-web-dev" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; background: #0077b5; border-radius: 5px; padding: 10px 20px; color: #fff; font-weight: bold; border: 1px solid #005a87; transition: transform 0.2s;">
+      <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" />
+      <span>LinkedIn</span>
+    </div>
+  </a>
+  <a href="mailto:awaisrafique4929@gmail.com" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; background: #ea4335; border-radius: 5px; padding: 10px 20px; color: #fff; font-weight: bold; border: 1px solid #c22f24; transition: transform 0.2s;">
+      <img src="https://img.icons8.com/ios-filled/24/ffffff/gmail.png" alt="Email" />
+      <span>Email</span>
+    </div>
+  </a>
+  <a href="https://wa.me/923259350593" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; background: #25d366; border-radius: 5px; padding: 10px 20px; color: #fff; font-weight: bold; border: 1px solid #1ebe57; transition: transform 0.2s;">
+      <img src="https://img.icons8.com/ios-filled/24/ffffff/whatsapp.png" alt="WhatsApp" />
+      <span>WhatsApp</span>
+    </div>
+  </a>
+  <a href="https://portfolio.muhammadawaisweb.dev" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px; background: #111; border-radius: 5px; padding: 10px 20px; color: #8CE95F; font-weight: bold; border: 1px solid #8CE95F; transition: transform 0.2s;">
+      <img src="https://img.icons8.com/ios-filled/24/8CE95F/web.png" alt="Portfolio" />
+      <span>Portfolio</span>
+    </div>
+  </a>
+</div>
 

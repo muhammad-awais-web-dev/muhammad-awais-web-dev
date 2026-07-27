@@ -1,4 +1,4 @@
-name: Generate Terminal GIF
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -32,11 +32,18 @@ jobs:
         run: |
           python generate_terminal.py
 
+      - name: Download GitHub Stats SVGs
+        run: |
+          curl -s -L "https://github-profile-trophy.vercel.app/?username=muhammad-awais-web-dev&theme=onedark&no-frame=true&margin-w=15" -o github-trophies.svg
+          curl -s -L "https://github-readme-stats.vercel.app/api?username=muhammad-awais-web-dev&show_icons=true&hide_rank=false&theme=onedark" -o github-stats.svg
+          curl -s -L "https://streak-stats.demolab.com/?user=muhammad-awais-web-dev&theme=dark&background=0B3300&text=F4F7F2&fire=8CE95F&ring=8CE95F&currStreakLabel=8CE95F" -o github-streak.svg
+          curl -s -L "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-awais-web-dev&layout=compact&theme=onedark" -o github-top-langs.svg
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add terminal.gif
-          if git commit -m "chore: update terminal GIF"; then
+          git add terminal.gif github-trophies.svg github-stats.svg github-streak.svg github-top-langs.svg
+          if git commit -m "chore: update profile terminal and stats assets"; then
             git push
           fi

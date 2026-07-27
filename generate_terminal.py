@@ -80,9 +80,9 @@ for i, line in enumerate(stats_lines):
     t.gen_text(line, row_num=7+i)
     t.clone_frame(3)
 
-t.clone_frame(10)
+t.clone_frame(45)
 t.gen_text("\x1b[96m==============================\x1b[0m", row_num=7+len(stats_lines))
-t.clone_frame(15)
+t.clone_frame(25)
 
 # Clear and Tech Stack
 t.gen_prompt(row_num=8+len(stats_lines))
@@ -109,9 +109,9 @@ for i, (label, value) in enumerate(skills):
     t.gen_text(f"{label}{value}", row_num=4+i)
     t.clone_frame(2)
 
-t.clone_frame(10)
+t.clone_frame(45)
 t.gen_text("\x1b[96m==================\x1b[0m", row_num=4+len(skills))
-t.clone_frame(5)
+t.clone_frame(25)
 
 # Final message
 final_row = 5 + len(skills)
@@ -119,7 +119,7 @@ t.gen_prompt(row_num=final_row)
 t.gen_typing_text("echo 'Welcome to my GitHub profile!'", row_num=final_row, contin=True, speed=1)
 t.clone_frame(5)
 t.gen_text("\x1b[92mWelcome to my GitHub profile!\x1b[0m", row_num=final_row+1)
-t.clone_frame(40)
+t.clone_frame(120)
 
 # Save to terminal.gif
 t.gen_gif()
