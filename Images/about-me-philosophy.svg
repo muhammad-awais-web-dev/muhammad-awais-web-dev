@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" viewBox="0 0 340 150" fill="none">
-  <defs>
-    <linearGradient id="philGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2a0033" />
-      <stop offset="100%" stop-color="#0d0010" />
-    </linearGradient>
-  </defs>
-  <rect width="340" height="150" rx="8" fill="url(#philGrad)" stroke="#E95F8C" stroke-width="1.5" />
-  
-  <text x="20" y="40" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#E95F8C">💡 Philosophy</text>
-  
-  <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" fill="#ffffff">
-    <tspan x="20" dy="0">Translating real-world user requirements</tspan>
-    <tspan x="20" dy="20">into clean, structured code and delightful</tspan>
-    <tspan x="20" dy="20">user journeys.</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" fill="none" viewBox="0 0 340 150"><defs><linearGradient id="philGrad" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="#2a0033"/><stop offset="100%" stop-color="#0d0010"/></linearGradient></defs><rect width="340" height="150" fill="url(#philGrad)" stroke="#E95F8C" stroke-width="1.5" rx="8"/><text x="20" y="40" fill="#E95F8C" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold">💡 Philosophy</text><text x="20" y="75" fill="#fff" font-family="'Segoe UI', Roboto, sans-serif" font-size="13"><tspan x="20" dy="0">Translating real-world user requirements</tspan> <tspan x="20" dy="20">into clean, structured code and delightful</tspan> <tspan x="20" dy="20">user journeys.</tspan></text></svg>
