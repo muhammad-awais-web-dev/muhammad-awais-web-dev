@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" viewBox="0 0 340 150" fill="none">
-  <defs>
-    <linearGradient id="specGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b2240" />
-      <stop offset="100%" stop-color="#020810" />
-    </linearGradient>
-  </defs>
-  <rect width="340" height="150" rx="8" fill="url(#specGrad)" stroke="#61DAFB" stroke-width="1.5" />
-  
-  <text x="20" y="40" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#61DAFB">⚙️ Specialty</text>
-  
-  <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" fill="#ffffff">
-    <tspan x="20" dy="0">Decoupled systems, custom React/Next.js</tspan>
-    <tspan x="20" dy="20">apps, headless WordPress setups, and</tspan>
-    <tspan x="20" dy="20">automated n8n backend pipelines.</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" fill="none" viewBox="0 0 340 150"><defs><linearGradient id="specGrad" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="#0b2240"/><stop offset="100%" stop-color="#020810"/></linearGradient></defs><rect width="340" height="150" fill="url(#specGrad)" stroke="#61DAFB" stroke-width="1.5" rx="8"/><text x="20" y="40" fill="#61DAFB" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold">⚙️ Specialty</text><text x="20" y="75" fill="#fff" font-family="'Segoe UI', Roboto, sans-serif" font-size="13"><tspan x="20" dy="0">Decoupled systems, custom React/Next.js</tspan> <tspan x="20" dy="20">apps, headless WordPress setups, and</tspan> <tspan x="20" dy="20">automated n8n backend pipelines.</tspan></text></svg>
